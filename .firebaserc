@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "api-project-b92ed"
+    "default": "api-project-b92ed",
+    "OctoAPI": "api-project-b92ed"
   }
 }
